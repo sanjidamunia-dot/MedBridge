@@ -17,6 +17,13 @@
   "dependencies": {
     "cors": "^2.8.6",
     "express": "^5.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjidamunia-dot/MedBridge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sanjidamunia-dot/MedBridge/issues"
+  },
+  "homepage": "https://github.com/sanjidamunia-dot/MedBridge#readme"
 }
- 
